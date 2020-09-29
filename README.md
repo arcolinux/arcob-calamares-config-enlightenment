@@ -1,0 +1,2 @@
+# ArcoLinuxB-Deepin Calamares configuration
+
